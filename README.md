@@ -1,2 +1,5 @@
 # Crossy-Road
-Erick Juarez juarez.erick16@csu.fullerton.edu
+
+By: Erick Juarez
+
+![alt text](https://raw.githubusercontent.com/EvilErick16/Crossy-Road/blob/master/Crossy_road.png)
