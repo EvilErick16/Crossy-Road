@@ -1,2 +1,0 @@
-C:\Users\juare\OneDrive\Documents\Unreal Projects\Crossy_road\Plugins\VOX4U\Source\VOX4U\VOX4U.Build.cs
-C:\Users\juare\OneDrive\Documents\Unreal Projects\Crossy_road\Plugins\VOX4U\Source\VOX4UEditor\VOX4UEditor.Build.cs
