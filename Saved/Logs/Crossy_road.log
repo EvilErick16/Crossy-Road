@@ -3532,3 +3532,822 @@ Script Stack (0 frames):
 [2019.05.20-06.56.26:114][533]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_Eagle02975B1C490133C92ADFA3A6786BD7EC.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Eagle/BP_Eagle.uasset'
 [2019.05.20-06.56.30:279][785]LogSlate: Window 'BP_Rabbit' being destroyed
 [2019.05.20-06.56.30:283][785]LogSlate: Window 'BP_Rabbit' being destroyed
+[2019.05.20-07.27.58:895][118]LogSlate: Window 'Content Browser' being destroyed
+[2019.05.20-07.27.58:899][118]LogSlate: Window 'Content Browser' being destroyed
+[2019.05.20-07.28.11:299][598]LogEditorViewport: Clicking on Actor (LMB): BP_grass_C (BP_grass6)
+[2019.05.20-07.28.11:931][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.29.22:160][ 30]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/Landscape/lilly_pad/lilly_pad.obj)
+[2019.05.20-07.29.22:170][ 30]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/Landscape/lilly_pad/lilly_pad.obj
+[2019.05.20-07.29.22:171][ 30]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.29.23:515][ 30]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.29.23:554][ 30]LogLinker: Can't find file '/Game/Floaters/LillyPad/lily_padvox'
+[2019.05.20-07.29.23:555][ 30]LogLinker: Can't find file '/Game/Floaters/LillyPad/lily_padvox'
+[2019.05.20-07.29.23:561][ 30]LogTexture: Display: Building textures: lily_padvox (BGRA8, 256X1)
+[2019.05.20-07.29.23:570][ 30]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.05.20-07.29.23:584][ 30]LogStaticMesh: Building static mesh lilly_pad...
+[2019.05.20-07.29.23:585][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/Floaters/LillyPad/lilly_pad.lilly_pad
+[2019.05.20-07.29.23:585][ 30]LogStaticMesh: Warning: lilly_pad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.29.23:585][ 30]LogStaticMesh: Warning: lilly_pad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.29.23:594][ 30]FBXImport: Warning: lilly_pad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.29.23:594][ 30]FBXImport: Warning: lilly_pad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.29.26:774][357]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.29.26:777][357]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.29.29:606][690]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Floaters/LillyPad/lilly_pad.lilly_pad
+[2019.05.20-07.29.29:892][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.05.20-07.29.29:892][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map' took 0.038
+[2019.05.20-07.29.29:894][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Floaters/LillyPad/lilly_pad] ([1] browsable assets)...
+[2019.05.20-07.29.29:905][691]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Floaters/LillyPad/lilly_pad.lilly_pad]
+[2019.05.20-07.29.29:905][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Floaters/LillyPad/lilly_pad]
+[2019.05.20-07.29.29:919][691]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/lilly_pad_Auto02525B2D845B9E461357BADAB6995A1A8.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Autosaves/Game/Floaters/LillyPad/lilly_pad_Auto0.uasset'
+[2019.05.20-07.29.29:920][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Floaters/LillyPad/palette] ([1] browsable assets)...
+[2019.05.20-07.29.29:931][691]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Floaters/LillyPad/palette.palette]
+[2019.05.20-07.29.29:931][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Floaters/LillyPad/palette]
+[2019.05.20-07.29.29:948][691]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette_Auto06ED09FAC49F80DFD1FB483BE8B6AD592.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Autosaves/Game/Floaters/LillyPad/palette_Auto0.uasset'
+[2019.05.20-07.29.29:949][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Floaters/LillyPad/lily_padvox] ([1] browsable assets)...
+[2019.05.20-07.29.29:950][691]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Floaters/LillyPad/lily_padvox.lily_padvox]
+[2019.05.20-07.29.29:950][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Floaters/LillyPad/lily_padvox]
+[2019.05.20-07.29.29:955][691]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/lily_padvox_Auto05ACE9C4F4066E638A80F20A08BA6B8A1.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Autosaves/Game/Floaters/LillyPad/lily_padvox_Auto0.uasset'
+[2019.05.20-07.29.29:957][691]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.05.20-07.29.32:443][963]LogSlate: Window 'lilly_pad' being destroyed
+[2019.05.20-07.29.32:447][963]LogSlate: Window 'lilly_pad' being destroyed
+[2019.05.20-07.29.39:072][585]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.29.58:908][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Floaters/LillyPad/BP_lilly_pad.BP_lilly_pad
+[2019.05.20-07.30.14:289][522]BlueprintLog: New page: Compile BP_lilly_pad
+[2019.05.20-07.30.14:439][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.20-07.30.16:239][715]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.30.16:242][715]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.30.19:740][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.30.23:794][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.20-07.30.24:849][369]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.30.24:900][369]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_lilly_padA476BE51472B1C85774542B6E4189BC5.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/BP_lilly_pad.uasset'
+[2019.05.20-07.30.24:905][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floaters/LillyPad/lilly_pad" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/lilly_pad.uasset" SILENT=true
+[2019.05.20-07.30.24:912][369]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/lilly_pad071E5E904549C82ED375D5AA85D7891B.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/lilly_pad.uasset'
+[2019.05.20-07.30.24:925][369]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/lily_padvox0204E6AD4DAC3E8F95BE739484166EB7.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/lily_padvox.uasset'
+[2019.05.20-07.30.24:933][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floaters/LillyPad/palette" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/palette.uasset" SILENT=true
+[2019.05.20-07.30.24:946][369]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette0F7D8E5D4C688F76B745EF93F236DAF7.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/palette.uasset'
+[2019.05.20-07.30.31:720][ 27]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.30.47:837][633]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.31.53:966][890]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.35.07:517][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.05.20-07.35.10:136][821]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-07.35.10:210][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.05.20-07.35.11:544][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.20-07.35.13:023][977]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-07.35.13:095][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.05.20-07.35.15:222][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.05.20-07.35.16:575][229]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-07.35.16:580][229]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Obstacles/Cars/BP_car.BP_car
+[2019.05.20-07.35.17:258][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.20-07.35.17:454][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.20-07.35.18:386][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.20-07.35.19:690][335]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-07.35.19:756][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.05.20-07.35.34:935][630]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/blue/blue_car.obj)
+[2019.05.20-07.35.34:945][630]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/blue/blue_car.obj
+[2019.05.20-07.35.34:949][630]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.35.36:350][630]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.35.36:388][630]LogLinker: Can't find file '/Game/Obstacles/Cars/blue_car/car_blue'
+[2019.05.20-07.35.36:389][630]LogLinker: Can't find file '/Game/Obstacles/Cars/blue_car/car_blue'
+[2019.05.20-07.35.36:392][630]LogTexture: Display: Building textures: car_blue (BGRA8, 256X1)
+[2019.05.20-07.35.36:401][630]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.05.20-07.35.36:416][630]LogStaticMesh: Building static mesh blue_car...
+[2019.05.20-07.35.36:418][630]LogStaticMesh: Built static mesh [0.00s] /Game/Obstacles/Cars/blue_car/blue_car.blue_car
+[2019.05.20-07.35.36:419][630]LogStaticMesh: Warning: blue_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.35.36:419][630]LogStaticMesh: Warning: blue_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.35.36:429][630]FBXImport: Warning: blue_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.35.36:429][630]FBXImport: Warning: blue_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.35.39:987][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.35.39:990][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.35.43:972][362]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.35.50:675][161]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Cars/blue_car/BP_blue_car.BP_blue_car
+[2019.05.20-07.36.01:006][193]BlueprintLog: New page: Compile BP_blue_car
+[2019.05.20-07.36.01:149][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.05.20-07.36.04:933][575]BlueprintLog: New page: Compile BP_blue_car
+[2019.05.20-07.36.05:077][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.05.20-07.36.05:877][654]LogSlate: Window 'BP_blue_car' being destroyed
+[2019.05.20-07.36.05:880][654]LogSlate: Window 'BP_blue_car' being destroyed
+[2019.05.20-07.36.08:790][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.05.20-07.36.09:839][992]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.36.09:856][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floaters/Logs/BP_log" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/Logs/BP_log.uasset" SILENT=true
+[2019.05.20-07.36.09:870][992]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_log1F854A104497B22FDACAAEB4615FA151.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/Logs/BP_log.uasset'
+[2019.05.20-07.36.09:905][992]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/blue_carF7DDD3904D2DE63BCB35028698CCF4D1.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/blue_car.uasset'
+[2019.05.20-07.36.09:937][992]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_blue_car646DA31246B60969F65BEAA086C401FB.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/BP_blue_car.uasset'
+[2019.05.20-07.36.09:949][992]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/car_blue68FF02EA4A856434774FAB9EA96C4B00.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/car_blue.uasset'
+[2019.05.20-07.36.09:981][992]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette9C6C24CF420849E389AF2AB19F9F322C.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/palette.uasset'
+[2019.05.20-07.37.46:648][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/green/green_car.obj)
+[2019.05.20-07.37.46:657][214]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/green/green_car.obj
+[2019.05.20-07.37.46:662][214]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.37.48:109][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.37.48:142][214]LogLinker: Can't find file '/Game/Obstacles/Cars/green_car/car_green'
+[2019.05.20-07.37.48:143][214]LogLinker: Can't find file '/Game/Obstacles/Cars/green_car/car_green'
+[2019.05.20-07.37.48:147][214]LogTexture: Display: Building textures: car_green (BGRA8, 256X1)
+[2019.05.20-07.37.48:154][214]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.05.20-07.37.48:168][214]LogStaticMesh: Building static mesh green_car...
+[2019.05.20-07.37.48:171][214]LogStaticMesh: Built static mesh [0.00s] /Game/Obstacles/Cars/green_car/green_car.green_car
+[2019.05.20-07.37.48:172][214]LogStaticMesh: Warning: green_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.37.48:172][214]LogStaticMesh: Warning: green_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.37.48:181][214]FBXImport: Warning: green_car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.37.48:182][214]FBXImport: Warning: green_car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.37.49:921][387]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.37.49:923][387]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.38.00:200][433]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.38.07:609][316]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Cars/green_car/BP_green_car.BP_green_car
+[2019.05.20-07.38.25:941][116]BlueprintLog: New page: Compile BP_green_car
+[2019.05.20-07.38.26:086][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.05.20-07.38.30:234][540]BlueprintLog: New page: Compile BP_green_car
+[2019.05.20-07.38.30:378][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.05.20-07.38.32:072][707]LogSlate: Window 'BP_green_car' being destroyed
+[2019.05.20-07.38.32:075][707]LogSlate: Window 'BP_green_car' being destroyed
+[2019.05.20-07.38.35:128][ 59]Cmd: TRANSACTION UNDO
+[2019.05.20-07.38.35:129][ 59]LogEditorTransaction: Undo Create Actors
+[2019.05.20-07.38.37:476][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.38.37:622][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Cars/green_car/BP_green_car.BP_green_car
+[2019.05.20-07.38.43:759][941]BlueprintLog: New page: Compile BP_green_car
+[2019.05.20-07.38.43:905][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.20-07.38.44:656][ 17]LogSlate: Window 'BP_green_car' being destroyed
+[2019.05.20-07.38.44:660][ 17]LogSlate: Window 'BP_green_car' being destroyed
+[2019.05.20-07.38.53:443][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.39.00:309][852]LogEditorViewport: Clicking on Actor (LMB): BP_grass_C (BP_grass2)
+[2019.05.20-07.39.01:232][960]LogEditorViewport: Clicking on Actor (LMB): BP_green_car_C (BP_green_car3)
+[2019.05.20-07.39.02:884][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.39.02:959][164]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-07.39.02:980][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.39.02:980][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-07.39.02:980][164]PIE: New page: PIE session: Map (May 19, 2019, 5:39:02 PM)
+[2019.05.20-07.39.02:980][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2019.05.20-07.39.02:987][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006619s)
+[2019.05.20-07.39.02:988][164]LogAIModule: Creating AISystem for world Map
+[2019.05.20-07.39.02:988][164]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.05.20-07.39.02:988][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007373s)
+[2019.05.20-07.39.03:018][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.05.20-07.39.03:050][164]LogInit: XAudio2 using 'VG245 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-07.39.03:063][164]LogInit: FAudioDevice initialized.
+[2019.05.20-07.39.03:096][164]LogLoad: Game class is 'GM_crossy_road_C'
+[2019.05.20-07.39.03:099][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.05.20-00.39.03
+[2019.05.20-07.39.03:100][164]LogWorld: Bringing up level for play took: 0.002490
+[2019.05.20-07.39.03:116][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.39.03:189][164]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.292
+[2019.05.20-07.39.03:190][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.39.06:033][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.39.07:083][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.39.07:391][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.39.07:400][660]LogScript: Warning: Accessed None trying to read property grasss_spawner
+	BP_grass_C /Game/Maps/UEDPIE_0_Map.Map:PersistentLevel.BP_grass8
+	Function /Game/Landscape/Grass/BP_grass.BP_grass_C:ExecuteUbergraph_BP_grass:004F
+[2019.05.20-07.39.07:400][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.39.11:250][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.39.11:251][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.39.11:282][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-07.39.11:282][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.39.11:320][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.39.11:325][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.20-07.39.11:332][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.39.11:362][123]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.05.20-07.39.13:721][406]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.39.13:725][406]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.39.15:676][640]LogEditorViewport: Clicking on Actor (LMB): BP_green_car_C (BP_green_car2)
+[2019.05.20-07.39.17:508][857]Cmd: DELETE
+[2019.05.20-07.39.17:508][857]Cmd: ACTOR DELETE
+[2019.05.20-07.39.17:510][857]LogEditorActor: Deleted Actor: BP_green_car_C
+[2019.05.20-07.39.17:538][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.05.20-07.39.17:538][857]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.20-07.39.18:430][964]LogEditorViewport: Clicking on Actor (LMB): BP_green_car_C (BP_green_car)
+[2019.05.20-07.39.18:606][983]Cmd: DELETE
+[2019.05.20-07.39.18:606][983]Cmd: ACTOR DELETE
+[2019.05.20-07.39.18:608][983]LogEditorActor: Deleted Actor: BP_green_car_C
+[2019.05.20-07.39.18:637][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.05.20-07.39.18:638][983]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.20-07.39.19:191][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_green_car_C (BP_green_car3)
+[2019.05.20-07.39.19:459][ 79]Cmd: DELETE
+[2019.05.20-07.39.19:459][ 79]Cmd: ACTOR DELETE
+[2019.05.20-07.39.19:461][ 79]LogEditorActor: Deleted Actor: BP_green_car_C
+[2019.05.20-07.39.19:490][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.20-07.39.19:491][ 79]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.05.20-07.39.21:690][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.39.21:801][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.05.20-07.39.23:215][352]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.39.23:232][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.39.23:270][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.05.20-07.39.23:466][352]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Map3EF56B4F423AD014EA0379B1F4440F8A.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.39.23:496][352]LogFileHelpers: Saving map 'Map' took 0.264
+[2019.05.20-07.39.23:525][352]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_green_car44F3C4764073FE15436B628ABE9FEA8D.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/green_car/BP_green_car.uasset'
+[2019.05.20-07.39.23:536][352]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/car_green0C8F16FC4F3C32198C8C8A830D6854F4.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/green_car/car_green.uasset'
+[2019.05.20-07.39.23:566][352]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/green_car8A11DE7D488CAF30B844199FBAE2A45E.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/green_car/green_car.uasset'
+[2019.05.20-07.39.23:598][352]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette46B6B9DC4E77E60EBABAB998894FEFBF.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/green_car/palette.uasset'
+[2019.05.20-07.39.25:433][564]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Obstacles/Cars/blue_car/blue_car.blue_car
+[2019.05.20-07.39.27:763][814]LogSlate: Window 'blue_car' being destroyed
+[2019.05.20-07.39.27:767][814]LogSlate: Window 'blue_car' being destroyed
+[2019.05.20-07.39.29:590][ 16]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Cars/blue_car/BP_blue_car.BP_blue_car
+[2019.05.20-07.39.38:172][968]BlueprintLog: New page: Compile BP_blue_car
+[2019.05.20-07.39.38:320][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.20-07.39.39:273][ 77]LogSlate: Window 'BP_blue_car' being destroyed
+[2019.05.20-07.39.39:277][ 77]LogSlate: Window 'BP_blue_car' being destroyed
+[2019.05.20-07.39.41:652][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.05.20-07.39.43:089][350]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.39.43:158][350]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_blue_carE7A1436E4FC07DBDFAF911BEF50D5496.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/BP_blue_car.uasset'
+[2019.05.20-07.39.48:038][931]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Floaters/LillyPad/BP_lilly_pad.BP_lilly_pad
+[2019.05.20-07.39.49:640][ 87]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.39.49:643][ 87]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.39.58:791][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.40.07:337][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.40.07:412][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-07.40.07:427][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.40.07:427][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-07.40.07:427][204]PIE: New page: PIE session: Map (May 19, 2019, 5:40:07 PM)
+[2019.05.20-07.40.07:428][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2019.05.20-07.40.07:433][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005582s)
+[2019.05.20-07.40.07:434][204]LogAIModule: Creating AISystem for world Map
+[2019.05.20-07.40.07:434][204]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.05.20-07.40.07:434][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006285s)
+[2019.05.20-07.40.07:464][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.05.20-07.40.07:495][204]LogInit: XAudio2 using 'VG245 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-07.40.07:507][204]LogInit: FAudioDevice initialized.
+[2019.05.20-07.40.07:536][204]LogLoad: Game class is 'GM_crossy_road_C'
+[2019.05.20-07.40.07:539][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.05.20-00.40.07
+[2019.05.20-07.40.07:540][204]LogWorld: Bringing up level for play took: 0.002804
+[2019.05.20-07.40.07:556][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.40.07:615][204]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.718
+[2019.05.20-07.40.07:616][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.40.08:352][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.40.09:002][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.40.10:369][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.40.10:377][529]LogScript: Warning: Accessed None trying to read property grasss_spawner
+	BP_grass_C /Game/Maps/UEDPIE_0_Map.Map:PersistentLevel.BP_grass8
+	Function /Game/Landscape/Grass/BP_grass.BP_grass_C:ExecuteUbergraph_BP_grass:004F
+[2019.05.20-07.40.10:377][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.40.13:094][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.40.13:095][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.40.13:125][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-07.40.13:125][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.40.13:162][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.40.13:166][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.05.20-07.40.13:174][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.40.13:201][856]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.05.20-07.40.14:478][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.40.14:481][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.40.20:897][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.40.21:277][822]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Floaters/LillyPad/BP_lilly_pad.BP_lilly_pad
+[2019.05.20-07.40.30:094][811]BlueprintLog: New page: Compile BP_lilly_pad
+[2019.05.20-07.40.30:236][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.05.20-07.40.30:899][885]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.40.30:903][885]LogSlate: Window 'BP_lilly_pad' being destroyed
+[2019.05.20-07.40.34:950][358]LogEditorViewport: Clicking on Actor (LMB): BP_lilly_pad_C (BP_lilly_pad)
+[2019.05.20-07.40.45:272][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.40.47:266][824]LogActorFactory: Actor Factory created blue_car
+[2019.05.20-07.40.49:525][ 94]LogActorFactory: Actor Factory created blue_car
+[2019.05.20-07.40.52:979][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.40.55:449][790]MapCheck: New page: Map Check
+[2019.05.20-07.40.55:455][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.40.55:459][790]LightingResults: New page: Lighting Build - May 19, 2019, 5:40:55 PM
+[2019.05.20-07.40.55:580][790]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.20-07.40.55:722][790]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.20-07.40.55:912][790]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.20-07.40.58:069][790]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.20-07.40.58:070][790]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4316
+[2019.05.20-07.41.02:952][790]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.20-07.41.02:953][790]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.20-07.41.02:953][790]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.20-07.41.02:953][790]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.20-07.41.02:953][790]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.20-07.41.02:953][790]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.20-07.41.03:231][790]LogEditorBuildUtils: Build time 0:07
+[2019.05.20-07.41.03:239][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.05.20-07.41.03:249][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.05.20-07.41.03:270][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer palette, compiling. 
+[2019.05.20-07.41.03:277][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer palette, compiling. 
+[2019.05.20-07.41.03:295][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.05.20-07.41.03:304][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.05.20-07.41.05:146][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.05.20-07.41.07:160][908]Job is a success!
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.05.20-07.41.07:252][909]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.05.20-07.41.07:275][909]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.05.20-07.41.07:275][909]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.05.20-07.41.07:276][909]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.05.20-07.41.07:276][909]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.05.20-07.41.07:276][909]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.05.20-07.41.07:340][909]Lightmass on DESKTOP-GF738QH: 1.08 sec total, 414 ms importing, 35 ms setup, 238 ms photons, 364 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 1.75 sec total, 64 ms processing.
+[2019.05.20-07.41.07:343][909]LogStaticLightingSystem: Map_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.05.20-07.41.07:344][909]LogMaterial: Warning: Material /Game/Obstacles/Cars/blue_car/palette.palette needed to have new flag set bUsedWithStaticLighting !
+[2019.05.20-07.41.07:348][909]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.05.20-07.41.07:410][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.05.20-07.41.07:418][909]LogStaticLightingSystem: Illumination: 11.9 sec (7 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2019.05.20-07.41.07:418][909]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.05.20-07.41.07:419][909]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.20-07.41.07:956][909]DumpUnbuiltLightIteractions
+[2019.05.20-07.41.07:956][909]Lights with unbuilt interactions: 0
+[2019.05.20-07.41.07:956][909]
+[2019.05.20-07.41.07:956][909]Primitives with unbuilt interactions: 0
+[2019.05.20-07.41.07:965][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.41.10:750][910]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.20-07.41.10:750][910]MapCheck: New page: Map - May 19, 2019, 5:41:10 PM
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass4 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass6 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass7 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass8 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass9 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:753][910]MapCheck: Warning: BP_grass10 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.20-07.41.10:754][910]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 3.541ms to complete.
+[2019.05.20-07.41.22:298][276]Cmd: DELETE
+[2019.05.20-07.41.22:298][276]Cmd: ACTOR DELETE
+[2019.05.20-07.41.22:300][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.20-07.41.22:330][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.20-07.41.22:330][276]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.20-07.41.23:848][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.41.26:445][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.41.32:272][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.41.32:347][458]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-07.41.32:366][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.41.32:367][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-07.41.32:367][458]PIE: New page: PIE session: Map (May 19, 2019, 5:41:32 PM)
+[2019.05.20-07.41.32:367][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2019.05.20-07.41.32:373][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005656s)
+[2019.05.20-07.41.32:373][458]LogAIModule: Creating AISystem for world Map
+[2019.05.20-07.41.32:373][458]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.05.20-07.41.32:373][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006388s)
+[2019.05.20-07.41.32:406][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.05.20-07.41.32:438][458]LogInit: XAudio2 using 'VG245 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-07.41.32:450][458]LogInit: FAudioDevice initialized.
+[2019.05.20-07.41.32:481][458]LogLoad: Game class is 'GM_crossy_road_C'
+[2019.05.20-07.41.32:483][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.05.20-00.41.32
+[2019.05.20-07.41.32:484][458]LogWorld: Bringing up level for play took: 0.001883
+[2019.05.20-07.41.32:497][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.41.32:535][458]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map -0.363
+[2019.05.20-07.41.32:535][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.41.34:202][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.41.34:735][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.41.35:210][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.41.35:218][773]LogScript: Warning: Accessed None trying to read property grasss_spawner
+	BP_grass_C /Game/Maps/UEDPIE_0_Map.Map:PersistentLevel.BP_grass8
+	Function /Game/Landscape/Grass/BP_grass.BP_grass_C:ExecuteUbergraph_BP_grass:004F
+[2019.05.20-07.41.35:218][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.41.38:509][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.41.38:509][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.41.38:541][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-07.41.38:541][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.41.38:579][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.41.38:584][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.20-07.41.38:591][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.41.38:619][166]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.05.20-07.41.39:869][315]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.41.39:873][315]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.41.43:117][702]LogEditorViewport: Clicking on Actor (LMB): BP_blue_car_C (BP_blue_car)
+[2019.05.20-07.41.44:611][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.41.49:812][499]LogEditorViewport: Clicking on Actor (LMB): BP_grass_C (BP_grass10)
+[2019.05.20-07.41.52:795][846]LogEditorViewport: Clicking on Actor (LMB): BP_blue_car_C (BP_blue_car)
+[2019.05.20-07.41.54:678][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.20-07.41.58:025][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.41.58:042][453]LogSlate: Took 0.006168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.05.20-07.42.02:132][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.05.20-07.42.03:183][900]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.42.03:193][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.42.03:249][900]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_lilly_pad2B69CEF74C4C00193DE201BF55BA2BA3.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Floaters/LillyPad/BP_lilly_pad.uasset'
+[2019.05.20-07.42.03:256][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.42.03:285][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.20-07.42.03:479][900]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/MapE0DBD79B4D46F2D332D1CA871F36F40E.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.42.03:506][900]LogFileHelpers: Saving map 'Map' took 0.250
+[2019.05.20-07.42.03:508][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2019.05.20-07.42.03:532][900]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Map_BuiltData8347653D4F09474CF8B88C9F753A20BF.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map_BuiltData.uasset'
+[2019.05.20-07.42.03:557][900]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette6600BE644B815D3B62A0EEB4D4483C1B.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/blue_car/palette.uasset'
+[2019.05.20-07.42.04:603][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.43.04:406][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.43.11:196][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.43.11:204][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/train/train_fixed.obj)
+[2019.05.20-07.43.11:214][829]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/train/train_fixed.obj
+[2019.05.20-07.43.11:247][829]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.43.12:308][829]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.43.12:343][829]LogLinker: Can't find file '/Game/Obstacles/Train/train'
+[2019.05.20-07.43.12:343][829]LogLinker: Can't find file '/Game/Obstacles/Train/train'
+[2019.05.20-07.43.12:348][829]LogTexture: Display: Building textures: train (BGRA8, 256X1)
+[2019.05.20-07.43.12:357][829]LogMaterial: Display: Missing cached shader map for material palette_001, compiling. 
+[2019.05.20-07.43.12:388][829]LogStaticMesh: Building static mesh train_fixed...
+[2019.05.20-07.43.12:414][829]LogStaticMesh: Built static mesh [0.03s] /Game/Obstacles/Train/train_fixed.train_fixed
+[2019.05.20-07.43.12:420][829]LogStaticMesh: Warning: train_fixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.43.12:420][829]LogStaticMesh: Warning: train_fixed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.43.12:435][829]FBXImport: Warning: train_fixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.43.12:436][829]FBXImport: Warning: train_fixed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.43.14:164][993]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.43.14:168][993]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.43.14:890][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.43.20:936][544]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.43.31:356][789]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Train/BP_train.BP_train
+[2019.05.20-07.43.47:770][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.43.56:223][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.43.58:469][491]BlueprintLog: New page: Compile BP_train
+[2019.05.20-07.43.58:616][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.05.20-07.43.59:397][569]LogSlate: Window 'BP_train' being destroyed
+[2019.05.20-07.43.59:400][569]LogSlate: Window 'BP_train' being destroyed
+[2019.05.20-07.44.04:653][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.44.06:456][402]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Train/BP_train.BP_train
+[2019.05.20-07.44.20:498][796]BlueprintLog: New page: Compile BP_train
+[2019.05.20-07.44.20:642][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.20-07.44.21:305][859]LogSlate: Window 'BP_train' being destroyed
+[2019.05.20-07.44.21:308][859]LogSlate: Window 'BP_train' being destroyed
+[2019.05.20-07.44.22:661][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.44.42:301][336]Cmd: SELECT NONE
+[2019.05.20-07.44.44:335][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.44.44:426][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.20-07.44.45:687][587]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.44.45:697][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.44.45:704][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.44.45:741][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.20-07.44.45:940][587]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/MapC7D5FA1B4031ABCC0D96F19B214A445D.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.44.45:967][587]LogFileHelpers: Saving map 'Map' took 0.264
+[2019.05.20-07.44.45:989][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Train/BP_train" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/BP_train.uasset" SILENT=true
+[2019.05.20-07.44.46:005][587]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_trainF48E40114E9310D0B20125B15B7629AD.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/BP_train.uasset'
+[2019.05.20-07.44.46:020][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Train/palette_001" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/palette_001.uasset" SILENT=true
+[2019.05.20-07.44.46:035][587]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette_001216D2F17430FAE366CDF36BAE31F3940.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/palette_001.uasset'
+[2019.05.20-07.44.46:041][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Train/train" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/train.uasset" SILENT=true
+[2019.05.20-07.44.46:046][587]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/trainD21E8F3F445BE2973F2DF996D53BFBCA.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/train.uasset'
+[2019.05.20-07.44.46:063][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Train/train_fixed" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/train_fixed.uasset" SILENT=true
+[2019.05.20-07.44.46:083][587]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/train_fixed0C24BF034AE8C90D7796E5A71EDB3701.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Train/train_fixed.uasset'
+[2019.05.20-07.44.48:139][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.45.42:731][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.45.51:136][636]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/truck/truck_fixed.obj)
+[2019.05.20-07.45.51:147][636]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/truck/truck_fixed.obj
+[2019.05.20-07.45.51:152][636]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.45.52:584][636]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.45.52:616][636]LogLinker: Can't find file '/Game/Obstacles/Truck/truck'
+[2019.05.20-07.45.52:617][636]LogLinker: Can't find file '/Game/Obstacles/Truck/truck'
+[2019.05.20-07.45.52:621][636]LogTexture: Display: Building textures: truck (BGRA8, 256X1)
+[2019.05.20-07.45.52:629][636]LogMaterial: Display: Missing cached shader map for material palette_002, compiling. 
+[2019.05.20-07.45.52:644][636]LogStaticMesh: Building static mesh truck_fixed...
+[2019.05.20-07.45.52:646][636]LogStaticMesh: Built static mesh [0.00s] /Game/Obstacles/Truck/truck_fixed.truck_fixed
+[2019.05.20-07.45.52:647][636]LogStaticMesh: Warning: truck_fixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.45.52:648][636]LogStaticMesh: Warning: truck_fixed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.45.52:658][636]FBXImport: Warning: truck_fixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.45.52:658][636]FBXImport: Warning: truck_fixed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.45.55:114][900]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.45.55:116][900]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.45.59:541][242]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.46.21:204][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Truck/BP_truck.BP_truck
+[2019.05.20-07.46.36:452][518]BlueprintLog: New page: Compile BP_truck
+[2019.05.20-07.46.36:599][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.05.20-07.46.48:748][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.46.52:687][368]BlueprintLog: New page: Compile BP_truck
+[2019.05.20-07.46.52:831][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.05.20-07.46.53:498][442]LogSlate: Window 'BP_truck' being destroyed
+[2019.05.20-07.46.53:502][442]LogSlate: Window 'BP_truck' being destroyed
+[2019.05.20-07.46.57:725][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.47.00:619][284]Cmd: SELECT NONE
+[2019.05.20-07.47.03:720][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.47.03:858][672]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Truck/BP_truck.BP_truck
+[2019.05.20-07.47.11:072][476]BlueprintLog: New page: Compile BP_truck
+[2019.05.20-07.47.11:220][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.20-07.47.12:073][572]LogSlate: Window 'BP_truck' being destroyed
+[2019.05.20-07.47.12:077][572]LogSlate: Window 'BP_truck' being destroyed
+[2019.05.20-07.47.12:962][669]LogEditorViewport: Clicking on Actor (LMB): BP_truck_C (BP_truck)
+[2019.05.20-07.47.23:950][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.47.29:709][640]LogEditorViewport: Clicking on Actor (LMB): BP_truck_C (BP_truck)
+[2019.05.20-07.47.30:663][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.47.33:118][ 46]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.20-07.47.33:155][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.47.33:796][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.20-07.47.44:113][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.47.47:554][751]LogEditorViewport: Clicking on Actor (LMB): BP_truck_C (BP_truck)
+[2019.05.20-07.47.51:732][241]LogEditorViewport: Clicking on Actor (LMB): BP_grass_C (BP_grass10)
+[2019.05.20-07.47.57:939][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.47.58:005][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-07.47.58:025][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.47.58:026][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-07.47.58:026][971]PIE: New page: PIE session: Map (May 19, 2019, 5:47:58 PM)
+[2019.05.20-07.47.58:026][971]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2019.05.20-07.47.58:032][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005668s)
+[2019.05.20-07.47.58:033][971]LogAIModule: Creating AISystem for world Map
+[2019.05.20-07.47.58:033][971]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2019.05.20-07.47.58:033][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006863s)
+[2019.05.20-07.47.58:063][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.20-07.47.58:095][971]LogInit: XAudio2 using 'VG245 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-07.47.58:108][971]LogInit: FAudioDevice initialized.
+[2019.05.20-07.47.58:137][971]LogLoad: Game class is 'GM_crossy_road_C'
+[2019.05.20-07.47.58:139][971]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.05.20-00.47.58
+[2019.05.20-07.47.58:140][971]LogWorld: Bringing up level for play took: 0.002193
+[2019.05.20-07.47.58:153][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.47.58:206][971]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map -0.691
+[2019.05.20-07.47.58:207][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.47.58:815][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.47.59:098][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.47.59:848][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.47.59:856][162]LogScript: Warning: Accessed None trying to read property grasss_spawner
+	BP_grass_C /Game/Maps/UEDPIE_0_Map.Map:PersistentLevel.BP_grass8
+	Function /Game/Landscape/Grass/BP_grass.BP_grass_C:ExecuteUbergraph_BP_grass:004F
+[2019.05.20-07.47.59:857][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.48.04:461][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.48.04:461][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.48.04:492][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-07.48.04:493][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.48.04:526][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.48.04:531][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.05.20-07.48.04:538][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.48.04:569][715]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2019.05.20-07.48.07:010][  7]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.48.07:013][  7]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.48.08:624][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.48.08:759][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.20-07.48.09:960][213]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.48.09:971][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.48.09:978][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.48.10:015][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.20-07.48.10:213][213]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Map57C7CCBA4C8659721770DDB45DB73860.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.48.10:241][213]LogFileHelpers: Saving map 'Map' took 0.263
+[2019.05.20-07.48.10:252][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Truck/BP_truck" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/BP_truck.uasset" SILENT=true
+[2019.05.20-07.48.10:268][213]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_truckC02754844DAEBD39C3CE2CB2282D2D55.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/BP_truck.uasset'
+[2019.05.20-07.48.10:283][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Truck/palette_002" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/palette_002.uasset" SILENT=true
+[2019.05.20-07.48.10:298][213]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette_002E39447C64D9180FD4F2160A15F36481E.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/palette_002.uasset'
+[2019.05.20-07.48.10:305][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Truck/truck" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/truck.uasset" SILENT=true
+[2019.05.20-07.48.10:311][213]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/truck7CB2A96E47DF57A8DDF3DAA868DB02CD.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/truck.uasset'
+[2019.05.20-07.48.10:325][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Truck/truck_fixed" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/truck_fixed.uasset" SILENT=true
+[2019.05.20-07.48.10:339][213]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/truck_fixedF1337C7C4429271563894F8CD5487345.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Truck/truck_fixed.uasset'
+[2019.05.20-07.50.30:809][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.50.32:545][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.50.47:086][639]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/taxi/taxi.obj)
+[2019.05.20-07.50.47:095][639]LogFbx: Loading FBX Scene from ../../../../../../Users/juare/Dropbox (CSU Fullerton)/CPSC 386 - Videogame Design/Crossy Road/sprites/vehicles/cars/taxi/taxi.obj
+[2019.05.20-07.50.47:101][639]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-07.50.48:245][639]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-07.50.48:277][639]LogLinker: Can't find file '/Game/Obstacles/Cars/taxi/taxi_vox'
+[2019.05.20-07.50.48:277][639]LogLinker: Can't find file '/Game/Obstacles/Cars/taxi/taxi_vox'
+[2019.05.20-07.50.48:283][639]LogTexture: Display: Building textures: taxi_vox (BGRA8, 256X1)
+[2019.05.20-07.50.48:292][639]LogMaterial: Display: Missing cached shader map for material palette_003, compiling. 
+[2019.05.20-07.50.48:308][639]LogStaticMesh: Building static mesh taxi...
+[2019.05.20-07.50.48:311][639]LogStaticMesh: Built static mesh [0.00s] /Game/Obstacles/Cars/taxi/taxi.taxi
+[2019.05.20-07.50.48:312][639]LogStaticMesh: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.20-07.50.48:312][639]LogStaticMesh: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.20-07.50.48:322][639]FBXImport: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.20-07.50.48:323][639]FBXImport: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.20-07.50.51:113][931]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.50.51:116][931]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.50.54:015][167]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-07.51.00:267][913]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Obstacles/Cars/taxi/BP_taxi.BP_taxi
+[2019.05.20-07.51.14:623][377]BlueprintLog: New page: Compile BP_taxi
+[2019.05.20-07.51.14:771][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.05.20-07.51.23:838][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.51.23:881][344]BlueprintLog: New page: Compile BP_taxi
+[2019.05.20-07.51.24:025][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.05.20-07.51.24:762][422]LogSlate: Window 'BP_taxi' being destroyed
+[2019.05.20-07.51.24:766][422]LogSlate: Window 'BP_taxi' being destroyed
+[2019.05.20-07.51.30:074][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.51.33:972][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.51.48:438][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.51.48:504][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-07.51.48:524][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.51.48:524][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-07.51.48:524][185]PIE: New page: PIE session: Map (May 19, 2019, 5:51:48 PM)
+[2019.05.20-07.51.48:524][185]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2019.05.20-07.51.48:531][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006090s)
+[2019.05.20-07.51.48:531][185]LogAIModule: Creating AISystem for world Map
+[2019.05.20-07.51.48:532][185]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.05.20-07.51.48:532][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007217s)
+[2019.05.20-07.51.48:565][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.20-07.51.48:598][185]LogInit: XAudio2 using 'VG245 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.20-07.51.48:614][185]LogInit: FAudioDevice initialized.
+[2019.05.20-07.51.48:646][185]LogLoad: Game class is 'GM_crossy_road_C'
+[2019.05.20-07.51.48:648][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.05.20-00.51.48
+[2019.05.20-07.51.48:648][185]LogWorld: Bringing up level for play took: 0.001867
+[2019.05.20-07.51.48:662][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.51.48:734][185]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map -0.163
+[2019.05.20-07.51.48:734][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.51.51:101][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.51.51:479][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.51.51:847][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property grasss_spawner". Blueprint:  BP_grass Function:  Execute Ubergraph BP Grass Graph:  EventGraph Node:  Spawn Grass At Spawn Piont
+[2019.05.20-07.51.55:494][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.51.55:495][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.51.55:529][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-07.51.55:530][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2019.05.20-07.51.55:562][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-07.51.55:568][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.05.20-07.51.55:575][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.51.55:606][977]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2019.05.20-07.51.58:146][280]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.51.58:150][280]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-07.52.01:003][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.52.01:094][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.20-07.52.02:584][621]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.52.02:602][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.52.02:641][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.20-07.52.02:844][621]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/MapDCC9ABC74397CD504ACC758DD841975B.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.52.02:870][621]LogFileHelpers: Saving map 'Map' took 0.269
+[2019.05.20-07.52.02:884][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Cars/taxi/BP_taxi" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/BP_taxi.uasset" SILENT=true
+[2019.05.20-07.52.02:901][621]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_taxi666F688542FE97B7920851AB013A6CC7.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/BP_taxi.uasset'
+[2019.05.20-07.52.02:934][621]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/palette_003A67D761340B9014E09676F85D95193D5.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/palette_003.uasset'
+[2019.05.20-07.52.02:950][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obstacles/Cars/taxi/taxi" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/taxi.uasset" SILENT=true
+[2019.05.20-07.52.02:965][621]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/taxiC5A9B9654FFC2C9C9AEFBD9E4A14968B.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/taxi.uasset'
+[2019.05.20-07.52.02:982][621]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/taxi_voxAF16EBDD4F8F0AB5C48D2AB338A33681.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Obstacles/Cars/taxi/taxi_vox.uasset'
+[2019.05.20-07.52.26:378][407]LogMaterial: Display: Missing cached shader map for material grass_material, compiling. 
+[2019.05.20-07.52.35:009][386]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/river_material72A007F24A40C205C9ED4E8CA595F4F5.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Landscape/River/river_material.uasset'
+[2019.05.20-07.52.35:143][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.20-07.52.35:175][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.20-07.52.35:202][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.20-07.52.36:243][507]LogAssetEditorManager: Opening Asset editor for Material /Game/Landscape/River/river_material.river_material
+[2019.05.20-07.52.36:249][507]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.36:357][507]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.36:373][507]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.36:390][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-07.52.36:416][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.36:601][513]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-07.52.37:881][620]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-07.52.39:568][753]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.05.20-07.52.39:569][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-07.52.39:569][753]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.20-07.52.39:569][753]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-07.52.45:344][420]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.47:369][640]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.49:653][893]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.55:027][499]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.56:287][632]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-07.52.56:312][632]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-07.52.59:074][947]LogMaterialEditor: Applying material river_material
+[2019.05.20-07.52.59:440][947]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.59:482][947]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-07.52.59:490][947]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.59:507][947]LogMaterial: Display: Missing cached shader map for material river_material, compiling. 
+[2019.05.20-07.52.59:555][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.05.20-07.52.59:565][947]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.20-07.53.01:546][947]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-07.53.01:546][947]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-07.53.01:550][947]TextureStreamingBuild: Display: Compiling optional shaders took 1.994 seconds.
+[2019.05.20-07.53.01:583][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.05.20-07.53.04:233][180]LogSlate: Window 'river_material' being destroyed
+[2019.05.20-07.53.04:237][180]LogSlate: Window 'river_material' being destroyed
+[2019.05.20-07.53.15:054][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.05.20-07.53.19:691][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Landscape/River/BP_road.BP_road
+[2019.05.20-07.53.31:823][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-07.53.33:949][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.53.34:063][504]BlueprintLog: New page: Compile BP_road
+[2019.05.20-07.53.34:212][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.05.20-07.53.42:073][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.53.53:136][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.53.57:670][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.54.03:871][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.54.03:942][802]BlueprintLog: New page: Compile BP_road
+[2019.05.20-07.54.04:108][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.05.20-07.54.13:026][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.54.17:681][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.54.20:591][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-07.54.20:671][696]LogSlate: Window 'BP_road' being destroyed
+[2019.05.20-07.54.20:674][696]LogSlate: Window 'BP_road' being destroyed
+[2019.05.20-07.54.25:978][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.05.20-07.54.27:303][321]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-07.54.27:330][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape/River/BP_road" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Landscape/River/BP_road.uasset" SILENT=true
+[2019.05.20-07.54.27:362][321]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/BP_road2E18FD1648FD3610AC1647AAE67EDB98.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Landscape/River/BP_road.uasset'
+[2019.05.20-07.54.27:408][321]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/river_materialA029EC2D4C68FB7DA6C60EACDBCEF643.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Landscape/River/river_material.uasset'
+[2019.05.20-07.56.14:624][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.05.20-07.56.16:947][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-07.56.16:977][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.20-07.56.17:173][632]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Map1743880F412C4EDF8F42BF96CBE66D50.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map.umap'
+[2019.05.20-07.56.17:201][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2019.05.20-07.56.17:221][632]LogSavePackage: Moving '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Saved/Map_BuiltDataA2E3F78748922E511F428594BDA4FB64.tmp' to '../../../../../../Users/juare/OneDrive/Documents/Unreal Projects/Crossy-Road/Content/Maps/Map_BuiltData.uasset'
+[2019.05.20-07.56.20:860][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.05.20-07.56.20:929][ 61]LogSlate: Window 'Crossy_road - Unreal Editor' being destroyed
+[2019.05.20-07.56.21:215][ 62]Cmd: QUIT_EDITOR
+[2019.05.20-07.56.22:086][ 62]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.20-07.56.22:136][ 62]LogExit: Preparing to exit.
+[2019.05.20-07.56.22:870][ 62]LogExit: Editor shut down
+[2019.05.20-07.56.22:871][ 62]LogExit: Transaction tracking system shut down
+[2019.05.20-07.56.23:259][ 62]LogExit: Object subsystem successfully closed.
+[2019.05.20-07.56.23:285][ 62]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.20-07.56.23:295][ 62]LogD3D11RHI: Shutdown
+[2019.05.20-07.56.23:295][ 62]LogD3D11RHI: CleanupD3DDevice
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-07.56.23:297][ 62]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-07.56.23:479][ 62]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.20-07.56.23:504][ 62]LogModuleManager: Shutting down and abandoning module TextureEditor (698)
+[2019.05.20-07.56.23:504][ 62]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (696)
+[2019.05.20-07.56.23:504][ 62]LogModuleManager: Shutting down and abandoning module MeshBuilder (694)
+[2019.05.20-07.56.23:504][ 62]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (692)
+[2019.05.20-07.56.23:504][ 62]LogModuleManager: Shutting down and abandoning module BlueprintGraph (690)
+[2019.05.20-07.56.23:505][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (688)
+[2019.05.20-07.56.23:505][ 62]LogModuleManager: Shutting down and abandoning module Voice (686)
+[2019.05.20-07.56.23:505][ 62]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2019.05.20-07.56.23:505][ 62]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2019.05.20-07.56.23:505][ 62]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2019.05.20-07.56.23:508][ 62]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2019.05.20-07.56.23:508][ 62]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2019.05.20-07.56.23:508][ 62]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module FoliageEdit (670)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module LandscapeEditor (668)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module MeshPaintMode (666)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (664)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module ActorPickerMode (662)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module GeometryMode (660)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module TextureAlignMode (658)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module BspMode (656)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (654)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (652)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module AutomationWorker (650)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (648)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (646)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (644)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2019.05.20-07.56.23:509][ 62]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2019.05.20-07.56.23:510][ 62]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2019.05.20-07.56.23:511][ 62]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2019.05.20-07.56.25:210][ 62]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2019.05.20-07.56.25:211][ 62]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2019.05.20-07.56.25:212][ 62]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2019.05.20-07.56.25:213][ 62]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2019.05.20-07.56.25:213][ 62]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2019.05.20-07.56.25:213][ 62]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2019.05.20-07.56.25:213][ 62]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2019.05.20-07.56.25:213][ 62]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2019.05.20-07.56.25:214][ 62]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2019.05.20-07.56.25:258][ 62]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2019.05.20-07.56.25:258][ 62]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2019.05.20-07.56.25:258][ 62]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2019.05.20-07.56.25:258][ 62]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2019.05.20-07.56.25:258][ 62]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2019.05.20-07.56.25:259][ 62]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2019.05.20-07.56.25:263][ 62]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2019.05.20-07.56.25:263][ 62]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2019.05.20-07.56.25:263][ 62]LogModuleManager: Shutting down and abandoning module AnimGraph (497)
+[2019.05.20-07.56.25:263][ 62]LogModuleManager: Shutting down and abandoning module Kismet (494)
+[2019.05.20-07.56.25:300][ 62]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2019.05.20-07.56.25:300][ 62]LogModuleManager: Shutting down and abandoning module ClassViewer (490)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module Toolbox (488)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module ModuleUI (486)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneTools (484)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2019.05.20-07.56.25:302][ 62]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module LiveCoding (476)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module LevelSequence (474)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (472)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module MovieScene (470)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (468)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module LauncherPlatform (466)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module AnalyticsET (464)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module PortalServices (462)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module PortalRpc (460)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module MessagingRpc (458)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module AIModule (456)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module GameplayDebugger (455)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module AITestSuite (453)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module NavigationSystem (451)
+[2019.05.20-07.56.25:309][ 62]LogModuleManager: Shutting down and abandoning module DesktopPlatform (448)
+[2019.05.20-07.56.25:310][ 62]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (446)
+[2019.05.20-07.56.25:314][ 62]LogModuleManager: Shutting down and abandoning module ProfilerService (444)
